@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Flipcart_clone_/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Flipcart_clone_/static/js/main.a33c251d.chunk.js",
+    "main.js.map": "/Flipcart_clone_/static/js/main.a33c251d.chunk.js.map",
+    "runtime-main.js": "/Flipcart_clone_/static/js/runtime-main.3b1507e8.js",
+    "runtime-main.js.map": "/Flipcart_clone_/static/js/runtime-main.3b1507e8.js.map",
+    "static/css/2.e3bd003b.chunk.css": "/Flipcart_clone_/static/css/2.e3bd003b.chunk.css",
+    "static/js/2.0170a03f.chunk.js": "/Flipcart_clone_/static/js/2.0170a03f.chunk.js",
+    "static/js/2.0170a03f.chunk.js.map": "/Flipcart_clone_/static/js/2.0170a03f.chunk.js.map",
+    "static/js/3.24ef5471.chunk.js": "/Flipcart_clone_/static/js/3.24ef5471.chunk.js",
+    "static/js/3.24ef5471.chunk.js.map": "/Flipcart_clone_/static/js/3.24ef5471.chunk.js.map",
+    "index.html": "/Flipcart_clone_/index.html",
+    "static/css/2.e3bd003b.chunk.css.map": "/Flipcart_clone_/static/css/2.e3bd003b.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Flipcart_clone_/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0170a03f.chunk.js.LICENSE.txt": "/Flipcart_clone_/static/js/2.0170a03f.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/Flipcart_clone_/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b1507e8.js",
+    "static/css/2.e3bd003b.chunk.css",
+    "static/js/2.0170a03f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a33c251d.chunk.js"
+  ]
+}
